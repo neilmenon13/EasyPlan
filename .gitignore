@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional lock files (if you want to ignore them)
+# Uncomment the line below if you don't want to track lock files
+# package-lock.json
+
+# Editor/IDE settings
+.vscode/
+.idea/
